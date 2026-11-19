@@ -19,8 +19,7 @@ div > .vimiumHintMarker span {
   line-height: 1 !important;
   letter-spacing: 0 !important;
   text-shadow: none !important;
-  position: relative;
-  top: 1px;
+  text-box: trim-both cap alphabetic;
 }
 
 div > .vimiumHintMarker > .matchingCharacter {
